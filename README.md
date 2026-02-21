@@ -1,4 +1,5 @@
 🤖 ESP32 Edge AI Voice Assistant
+
 📌 Overview
 
 An advanced ESP32-based voice assistant integrating real-time speech recording, cloud-based AI reasoning, and text-to-speech synthesis using secure HTTPS communication.
